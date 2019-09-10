@@ -12,7 +12,7 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  color_array = ["red","green","blue","yellow","pur"]
+  color_array = ["red","green","blue","yellow","purple"]
   color_array.unshift("rainbow")
 end
 
