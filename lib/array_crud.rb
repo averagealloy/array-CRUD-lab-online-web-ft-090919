@@ -1,5 +1,5 @@
 def create_an_empty_array
-empty_==
+empty_arr
 end
 
 def create_an_array
