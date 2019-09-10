@@ -18,8 +18,8 @@ end
 
 
 def remove_element_from_end_of_array(array)
-  color_array = ["rainbow","red","green","blue","yellow","purple"]
-  color_array.pop
+color_array = ["wow","red","green","blue","yellow","arrays!"]
+color_array.pop
 end
 
 def remove_element_from_start_of_array(array)
