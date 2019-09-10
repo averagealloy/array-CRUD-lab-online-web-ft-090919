@@ -34,7 +34,7 @@ color_array[2]
 end
 
 def retrieve_first_element_from_array(array)
-color_array = ["red","green","blue"]
+color_array = ["wow","red","am","blue","yellow","arrays!"]
 color_array[0]
 end
 
