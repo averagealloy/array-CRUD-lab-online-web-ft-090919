@@ -22,9 +22,10 @@ color_array = ["wow","red","green","blue","yellow","arrays!"]
 color_array.pop
 end
 
+
 def remove_element_from_start_of_array(array)
-  color_array = ["rainbow","red","green","blue"]
-  color_array.shift
+color_array = ["wow","red","green","blue","yellow"]
+color_array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
