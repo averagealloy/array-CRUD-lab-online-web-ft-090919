@@ -39,6 +39,6 @@ color_array[0]
 end
 
 def retrieve_last_element_from_array(array)
-color_array = ["red","green","blue"]
-color_array[2]
+color_array = ["wow","red","am","blue","yellow","arrays!"]
+color_array[5]
 end
