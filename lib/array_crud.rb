@@ -22,7 +22,7 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  color_array = ["wow","red","green","blue","yellow"]
+  color_array = ["rai","red","green","blue","yellow"]
   color_array.shift
 end
 
